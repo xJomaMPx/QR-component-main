@@ -43,7 +43,7 @@
   text-align: center;
 }
 
-.card-description > p:first-of-type {
+.card-description > h1 {
   margin-bottom: 16px;
 
   font-weight: 700;
@@ -51,7 +51,7 @@
   
   color: var(--Dark-blue);
 }
-.card-description > p:last-of-type {
+.card-description > p {
   font-weight: 400;
   font-size: 15px;
   
